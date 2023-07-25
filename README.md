@@ -1,2 +1,3 @@
 # Barracks
-yadhunandan's warehouse
+yadhunandan's garage
+inventory
